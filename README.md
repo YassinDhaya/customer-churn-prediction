@@ -1,0 +1,3 @@
+# customer-churn-prediction
+use of different statistical methods, including confusion metric, recall, accuracy, precision, f1-score, AUC, and ROC to use logistic regression for estimating the chances of churn for each customer
+The "Customer Churn Analysis" project aims to explore, analyze, and gain insights from customer data to better comprehend the reasons behind customer attrition. By leveraging data analytics and machine learning techniques, this project seeks to empower businesses to make informed decisions and take proactive measures to reduce customer churn, ultimately leading to increased customer retention and improved profitability.
